@@ -1,0 +1,10 @@
+Abrir una consola 3 ejecutar 
+start_mongo_service
+
+Abrir una consola 2 ejecutar
+cd C:\Workspace\NestJS\nestjs-products-api
+npm run start
+
+En la consola 1 ejecutar
+npm run start
+
